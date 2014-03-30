@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<body style="padding:0px; margin:0px; border:0px; overflow:hidden;">
+
+<div id="container"></div>
+
+<script type="text/javascript" src="three/build/three.js"></script>
+
+<script type="text/javascript">
+var container, stats;
+var camera, controls, scene, renderer;
+
+function init() {
+
+container = document.getElementById("container");
+scene = new THREE.Scene();
+camera = new THREE.PerspectiveCamera(60, window.innerWidth / window/innerHeight, 1, 3000);
+camera.position.y = 240;
+camera.position.x = -800;
+camera.position.z = 0;
+
+var directionalLight1 = new THREE.DirectionalLight(0xf7efb3, 1);
+directionalLight1.position.set(0.5, 1, 0.5);
+scene.add(directionalLight1);
+
+var directionalLight2 = new THREE.DirectionalLight(0xf7efb3, 1);
+directionalLight2.position.set(-0.5, -1, -0.5);
+scene.add(directionalLight2);
+
+var material = new THREE.MeshPhongMaterial({color: 0xffffff, map: THREE.ImageUtils.loadTexture('texture.png') });
+loader = new THREE.JSONLoader();
+loader.load('test.js', function (geometry) {
+mesh = new THREE.Mesh(geometry, material);
+mesh.position.x = 0;
+mesh.position.y = 0;
+mesh.position.z = 0;
+mesh.scale.z = 50;
+mesh.scale.x = 50;
+mesh.scale.y = 50;
+scene.add(msh);
+});
+
+renderer = new THREE.WebGLRenderer();
+renderer.setSize(window.innerWidth, window,innerHeight);
+container.appendChild(renderer.domElement);
+renderer.render(scene, camera);
+}
+
+</script>
+
+
+</body>
+</html>

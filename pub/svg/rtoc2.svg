@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   id="svg3017"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   viewbox="0 0 316 56"
+   sodipodi:docname="rtoc2.svg">
+  <defs
+     id="defs3019" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="182.31468"
+     inkscape:cy="742.34364"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="784"
+     inkscape:window-height="423"
+     inkscape:window-x="219"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3017" />
+  <metadata
+     id="metadata3022">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     frame="2420"
+     class="rtocList"
+     style="display:inline"
+     id="g3007-3"
+     transform="matrix(0.99858439,0,0,1,-0.77350659,-300.48022)">
+    <rect
+       style="fill:#6176c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3009"
+       width="316.44797"
+       height="56"
+       x="0.77460313"
+       y="300.48022"
+       rx="8.0316744"
+       ry="6.6666665" />
+    <text
+       index="mainVideo 2420 narratorVideo 605"
+       class="rtoc"
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bfaa30;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.601563"
+       y="338.07751"
+       id="text3011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         x="10.601563"
+         y="338.07751">Traits of a Good Cop</tspan></text>
+  </g>
+</svg>

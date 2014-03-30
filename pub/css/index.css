@@ -1,0 +1,41 @@
+body { background-image:url('../img/mesh-background.jpg');
+font-size:30px;
+}
+#videoContainer.expanded {
+ position:absolute;
+ top:0%;
+ left:0%;
+ height:100%;
+ width:100%;
+ z-index:0;
+ transition: width .3s linear, height .3s linear, top .3s linear, left .3s linear;
+ background-color:black;
+}
+#videoContainer.contracted {
+ position:absolute;
+ width:60%;
+ height:60%;
+ top:20%;
+ left:35%;
+ z-index:0;
+ transition: width .3s linear, height .3s linear, top .3s linear, left .3s linear;
+ background-color:black;
+}
+#narratorVideo.slowAnim {
+float:left;
+position:absolute;
+transition: width .3s linear, height .3s linear, margin .3s linear;
+}
+#narratorVideo.quickAnim {
+float:left;
+position:absolute;
+}
+.toc {
+cursor:pointer;
+}
+.ntoc {
+cursor:pointer;
+} 
+.rtoc {
+cursor:pointer;
+}

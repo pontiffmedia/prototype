@@ -1,0 +1,17 @@
+elements = {};
+elements.mainVideo = document.getElementById("mainVideo");
+elements.narratorDiv = document.getElementById("narratorDiv");
+elements.narratorVideo = document.getElementById("narratorVideo");
+elements.narratorController = document.getElementById("narratorController");
+elements.narratorPlayButton = document.getElementById("narratorPlayTouchArea");
+elements.narratorDisableButton = document.getElementById("narratorDisableTouchArea");
+elements.mainPlayButton = document.getElementById("mainPlayButton");
+elements.screenChanger = document.getElementById("screenChanger");
+elements.mainVideoSvg = document.getElementById("mainVideoSvg");
+elements.videoContainer = document.getElementById("videoContainer");
+elements.rect4409 = document.getElementById("rect4409");
+elements.rect4413 = document.getElementById("rect4413");
+elements.rect4417 = document.getElementById("rect4417");
+elements.rect4421 = document.getElementById("rect4421");
+elements.officer1 = document.getElementById("officer1");
+elements.linePath = document.getElementById("linePath");

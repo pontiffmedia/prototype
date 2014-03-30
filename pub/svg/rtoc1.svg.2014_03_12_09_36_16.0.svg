@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   viewbox="0 0 394 114"
+   sodipodi:docname="rtoc1.svg">
+  <defs
+     id="defs3019" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="182.31468"
+     inkscape:cy="-78.616232"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     inkscape:window-x="-4"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3017" />
+  <metadata
+     id="metadata3022">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3005"
+     class="rtocList"
+     frame="0"
+     transform="translate(-0.77460313,-242.48022)">
+    <rect
+       ry="13.571428"
+       rx="10"
+       y="242.48022"
+       x="0.77460313"
+       height="114"
+       width="394"
+       id="rect3007"
+       style="fill:#6176c0;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3009"
+       y="291.07751"
+       x="7.0359521"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bfaa30;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       class="rtoc"
+       index="mainVideo 0 narratorVideo 0"><tspan
+         y="291.07751"
+         x="7.0359521"
+         id="tspan3011"
+         sodipodi:role="line">Introduction</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3013"
+       y="328.8161"
+       x="4.0837321"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bfaa30;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       class="rtoc"
+       index="mainVideo 0 narratorVideo 165"><tspan
+         y="328.8161"
+         x="4.0837321"
+         id="tspan3015"
+         sodipodi:role="line">Setting for the Good Cop</tspan></text>
+  </g>
+</svg>
